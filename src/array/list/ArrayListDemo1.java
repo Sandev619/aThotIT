@@ -1,7 +1,7 @@
 package array.list;
-
+// Arraylist is a inbuilt class
 import java.util.ArrayList;
-
+// <> is known as generics used for type safety
 public class ArrayListDemo1 {
 
 	public static void main(String[] args) {
